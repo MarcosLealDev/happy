@@ -2,8 +2,8 @@
 /backend/uploads/*
 
 # dependencies
-/web/node_modules
-/backend/node_modules
+web/node_modules
+backend/node_modules
 /web/.pnp
 /web/.pnp.js
 
